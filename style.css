@@ -89,3 +89,41 @@ background-color: green;
 color: white;
 border-radius: 5px;
 }
+
+/* !THE FOLLOWING IS AN ADVANCED CONCEPT IF YOU ARE NEW TO CSS LEAVE THIS PART OUT */
+@media (max-width:650px) {
+    .pageone{
+        padding: 1em;
+        display: grid;
+        place-content: center;
+    }
+    .container{
+        width: 350px;
+        min-width: 300px;
+        display: grid;
+        min-height:700px ;
+        background-color: white;
+    }
+    .image {
+        width: 100%;
+        height: 300px;
+        border-radius: 20px 20px 0 0;
+    }
+    .image img{
+        width: 100%;
+        object-fit: cover;
+        border-radius: 20px 20px 0 0;
+    }
+    .desc{
+        width: 100%;
+        border-radius: 0 0 20px 20px;
+    }
+    
+}
+
+@media (max-width:350px) {
+    .container{
+        width: 280px;
+    }
+    
+}
