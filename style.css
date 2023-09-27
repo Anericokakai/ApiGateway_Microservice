@@ -1,0 +1,91 @@
+/* !THE GENERAL STYLING THAT WILL APPLY TO  ALL*/
+/* WE USE * TO SELECT ALL AND GET RID OF THE MARGIN AND PADDING */
+/* WE  USED POPPINS FONT TO MAKE OUR WEB LOOK MORE PRETTIER */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+font-family: 'Poppins', sans-serif;
+}
+
+/* PAGE ONE IS THE SECTION <section></section>  tag in html
+1.display flex-> we need this in order to center our container class
+the container class is the first child element of the section
+2.justify-content: center;-> this is used to place the <div class ="container"></div> at the center of the screen
+horizontally
+3. align-items: center;->his is used to place the <div class ="container"></div> at the center of the screen
+vertically
+! what we have done above is called centering a div
+! remember to give the height to your section in order to see the the <div class ="container"></div> at the center 
+!of your screen
+*/
+
+.pageone{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-color:aliceblue;
+    
+}
+/* !THE CONTAINER IS THE  CARD  */
+
+/* 
+1.border radius :20px ->is used to get rid of the sharp corners on our card 
+2.display: flex;->is used to make the image div and the desc div to be side by side
+3.
+
+*/
+
+.container{
+    width: 600px;
+    height: 500px;
+    
+    border-radius: 20px;
+    display: flex;
+    box-shadow: 0px 24px 38px 3px rgba(0,0,0,0.14) , 0px 9px 46px 8px rgba(0,0,0,0.12) , 0px 11px 15px -7px rgba(0,0,0,0.2) ;
+
+}
+.image{
+    width: 300px;
+    height: 100%;
+    background-color: aqua;
+    border-radius: 20px 0 0 20px;
+}
+.image img{
+    height: 100%;
+    object-fit: cover;
+    border-radius: inherit;
+}
+.desc{
+    width: 300px;
+    height: 100%;
+    background-color: white;
+    border-radius: 0 20px 20px 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding: 1em;
+
+}
+.heading{
+    padding-bottom: 1em;
+    padding-top: .5em;
+}
+.price{
+    padding: .5em ;
+    color: rgb(13, 86, 13);
+}
+
+.desc button{
+    padding: 5px 15px;
+    border: none;
+    box-shadow: 0px 24px 38px 3px rgba(0,0,0,0.14) , 0px 9px 46px 8px rgba(0,0,0,0.12) , 0px 11px 15px -7px rgba(0,0,0,0.2) ;
+background-color: green;
+color: white;
+border-radius: 5px;
+}
