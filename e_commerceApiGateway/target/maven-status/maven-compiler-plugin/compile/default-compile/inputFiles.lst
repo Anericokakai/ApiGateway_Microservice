@@ -1,0 +1,7 @@
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/filters/Validator.java
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/OpenFeign/ShopServiceClient.java
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/ECommerceApiGatewayApplication.java
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/AppConfigs/Appconfigs.java
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/controller/FallBackController.java
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/Tdo/ShopResponse.java
+/home/rico/projects/springProjects/ApiGateway_Microservice/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/filters/AuthFilter.java
