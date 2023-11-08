@@ -1,5 +1,6 @@
 package com.ricodev.kafkaservice.Config;
 
+
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -9,8 +10,10 @@ import org.springframework.kafka.config.TopicBuilder;
 public class KafkaTopicConfig {
 
     @Bean
-    public NewTopic eCommerceTopic(){
-        return TopicBuilder.name("ricodev")
+    public NewTopic newTopic (){
+        return TopicBuilder.name("test")
                 .build();
     }
+
+
 }
