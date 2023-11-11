@@ -11,10 +11,16 @@ spring:
           uri: lb://shop-service
           predicates:
             - Path=/v2/api/shops/**
+          filters:
+            - name: CircuitBreaker
+              args:
+                name: shop-service
+                fallbackUri: forward:/shopServiceFallBack
         - id: products-service
           uri: lb://products-service
           predicates:
             - Path=/v2/api/products/**
+
 
 
 
@@ -25,10 +31,8 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: https://servicediscovery.onrender.com/eureka/
+      defaultZone: http://localhost:5000/eureka/
 
-  instance:
-    hostname: localhost
 
 server:
   port: 8089
