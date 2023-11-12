@@ -15,8 +15,28 @@ import java.util.Map;
 public class FallBackController {
 
     @PostMapping("/shopServiceFallBack")
-    public ResponseEntity<?> fallback(){
+    public ResponseEntity<?> fallbackForShopPost(){
 
-        return  ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR) .body("we are facing some isues with the shop service please conact us ");
+        return  ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("we are facing some isues with the shop service please conact us ");
+    }
+    @GetMapping("/shopServiceFallBack")
+    public ResponseEntity<?> fallbackForShopGet(){
+
+        return  ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("we are facing some isues with the shop service please conact us ");
+    }
+
+    @PostMapping("/productserviceFallBack")
+    public ResponseEntity<?> fallbackForProductsPost(){
+
+        return  ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("we are facing some isues with the product service please conact us ");
+    }
+    @GetMapping("/productserviceFallBack")
+    public ResponseEntity<?> fallbackForProductsGet(){
+
+        return  ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("we are facing some isues with the product service please conact us ");
     }
 }

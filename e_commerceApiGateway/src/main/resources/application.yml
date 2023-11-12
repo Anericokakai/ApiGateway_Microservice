@@ -20,6 +20,11 @@ spring:
           uri: lb://products-service
           predicates:
             - Path=/v2/api/products/**
+          filters:
+            - name: CircuitBreaker
+              args:
+                name: products-service
+                fallbackUri: foward:/productserviceFallBack
 
 
 
