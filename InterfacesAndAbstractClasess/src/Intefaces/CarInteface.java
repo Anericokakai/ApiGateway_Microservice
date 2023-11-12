@@ -5,4 +5,9 @@ public  interface CarInteface {
    public String  color();
    public   String  model();
     public String  engine();
+//    ! default methods
+    default  void printWelcome(){
+        System.out.println("this is the default method of an interface");
+
+    }
 }

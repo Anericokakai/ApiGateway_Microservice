@@ -16,10 +16,13 @@ public class Volvo implements  CarInteface{
         return "2017 v8 6.5 liter";
     }
 
+
     public static void main(String[] args) {
         Volvo volvo=new Volvo();
         System.out.println(volvo.color());
         System.out.println(volvo.engine());
         System.out.println(volvo.model());
+        volvo.printWelcome();
+
     }
 }

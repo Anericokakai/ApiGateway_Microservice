@@ -3,3 +3,6 @@
 > we can also declare a static final varibles in the inteface
 ## methods in an interface 
 interface methods dont have the body itsjust a delclartion of the methods
+
+## default method
+>we can have a default method which has the body
