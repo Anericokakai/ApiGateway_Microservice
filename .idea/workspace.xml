@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bde1fdd-5a80-446a-a3a8-92d43f0b6d9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/e_commerceApiGateway/src/main/java/com/ricodev/e_commerceapigateway/AppConfigs/RoutesConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_commerceApiGateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/e_commerceApiGateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -66,6 +66,8 @@
       <workItem from="1699037516051" duration="893000" />
       <workItem from="1699077409397" duration="281000" />
       <workItem from="1699103702793" duration="1344000" />
+      <workItem from="1699106853587" duration="3257000" />
+      <workItem from="1699180895702" duration="160000" />
     </task>
     <servers />
   </component>

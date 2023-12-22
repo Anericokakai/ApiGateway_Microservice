@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f057087-b182-43f1-9076-5466c2b3d60a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterfacesAndAbstractClasess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/AgeComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/CheckedExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/ComparableSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/DependecyInjections/ExamCHeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/DependecyInjections/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/EqualsAndHashCodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/MyCustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/SortStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/TryCatchException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsanHasEquals/shoes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/CarInteface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/Inteface.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/MultipleInheritance/KawasakiNinja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/MultipleInheritance/MotorBike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/MultipleInheritance/MotorbikeDescription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/SubaruImpreza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/Volvo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/AgeComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/CheckedExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/ComparableSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/DependecyInjections/ExamCHeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/DependecyInjections/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/EqualsAndHashCodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/MyCustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/SortStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/TryCatchException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intefaces/src/shoes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Config/KafkaTopicConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Config/KafkaTopicConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Service/KafkaConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Service/KafkaConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Service/KafkaJsonProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/Service/KafkaJsonProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/tdo/UserJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafkaservice/src/main/java/com/ricodev/kafkaservice/tdo/UserJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../kafkaservice/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Y4PfqCO78cJVWbryEmfA67HxD8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rico/projects/springProjects/ApiGateway_Microservice/InterfacesAndAbstractClasess/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Intefaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Intefaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Volvo">
+    <configuration name="KawasakiNinja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intefaces.MultipleInheritance.KawasakiNinja" />
+      <module name="InterfacesAndAbstractClasess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intefaces.MultipleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubaruImpreza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intefaces.SubaruImpreza" />
+      <module name="InterfacesAndAbstractClasess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volvo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intefaces.Volvo" />
+      <module name="InterfacesAndAbstractClasess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intefaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Volvo" />
+        <item itemvalue="Application.KawasakiNinja" />
+        <item itemvalue="Application.SubaruImpreza" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f057087-b182-43f1-9076-5466c2b3d60a" name="Changes" comment="" />
+      <created>1699781989787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699781989787</updated>
+      <workItem from="1699781990803" duration="3418000" />
+      <workItem from="1699785491069" duration="457000" />
+      <workItem from="1699794951512" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
